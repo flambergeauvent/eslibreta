@@ -5,8 +5,10 @@ tags:
     - lorca
 categories:
     - exercices de style
-draft: ture
+
 ---
+
+{{% columns %}}
 
 ## HAY ALMAS QUE TIENEN…
 ***8 de febrero de 1920***  
@@ -43,10 +45,11 @@ de mis pensamientos.
 Cada piedra dice:  
 «¡Dios está muy lejos!»
 
----
+<--->
+
 ## 有些靈魂具有……
-***1920年2月8日  
-加西亞·洛爾迦***
+***1920年2月8日***  
+***加西亞·洛爾迦***
 
 有些靈魂具有  
 藍色的星芒，  
@@ -79,6 +82,7 @@ Cada piedra dice:
 每一塊都敘說：  
 “神已如此遙遠！”
 
+{{% /columns %}}
 
 
 > 選自 [Libro de Poemas 詩篇](../../shelves/libro-de-poemas) 

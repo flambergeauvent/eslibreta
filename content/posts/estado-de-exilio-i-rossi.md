@@ -248,7 +248,7 @@ triste
 困憊  
 憤懣  
 悲哀  
-&nbsp;&nbsp;&nbsp;&nbsp;於這世間的一切所在
+&nbsp;&nbsp;&nbsp;&nbsp;於這世間的一切所在。
 
 
 {{% /columns %}}

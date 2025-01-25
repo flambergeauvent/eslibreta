@@ -1,0 +1,23 @@
+{{ if .IsHome }}
+<div class="recent">
+  <h1>最近更新</h1>
+  <ul>
+    {{ range (first 25 (where .Site.RegularPages "Type" "posts")) }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <div class="archive">{{ .Date.Format "2006-01-02" }}</div>
+      {{ if .Params.categories }}
+      <div class="taxonomy">
+        {{ range .Params.tags }}
+        <span class="tag">{{ . }}</span>
+        {{ end }}
+        {{ range .Params.categories }}
+        <span class="category">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
