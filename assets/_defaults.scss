@@ -5,8 +5,8 @@ $padding-8: 0.5rem !default;
 $padding-16: 1rem !default;
 
 $font-size-base: 16px !default;
-$font-size-12: 0.75rem !default;
-$font-size-14: 0.875rem !default;
+$font-size-12: 0.9rem !default;
+$font-size-14: 0.95rem !default;
 $font-size-16: 1rem !default;
 
 $border-radius: $padding-4 !default;
@@ -33,11 +33,11 @@ $hint-colors: (
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
-  --color-link: #0055bb;
-  --color-visited-link: #8440f1;
+  --color-link: #E85C0D;
+  --color-visited-link: #CD5C08;
 
-  --body-background: white;
-  --body-font-color: black;
+  --body-background: #fffefb;
+  --body-font-color: #1b1f24;
 
   --icon-filter: none;
 
