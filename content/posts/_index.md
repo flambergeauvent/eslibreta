@@ -3,5 +3,5 @@ menu:
   before:
     name: posts
     weight: 5
-title: Folios
+title: Folios | 匯總
 ---

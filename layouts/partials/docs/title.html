@@ -5,9 +5,9 @@
 {{ $title := "" }}
 
 {{ if .LinkTitle }}
-  {{ $title = .LinkTitle }}
+  {{ $title = .LinkTitle | safeHTML }}
 {{ else if .Title }}
-  {{ $title = .Title }}
+  {{ $title = .Title | safeHTML }}
 {{ else if and .IsSection .File }}
   {{ $title = path.Base .File.Dir | humanize | title }}
 {{ else if and .IsPage .File }}

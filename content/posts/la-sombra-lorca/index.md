@@ -1,7 +1,8 @@
 ---
-title: LA SOMBRA DE MI ALMA 我靈魂的陰影
+title: LA SOMBRA DE MI ALMA  <br>  我靈魂的陰影
 date: 2024-06-08
 header_anchor: true
+cover: "cover.jpeg"
 tags:
     - lorca
 categories:
@@ -10,8 +11,10 @@ summary: "我靈魂的陰影  <br>
 隱遁到字彙的黃昏，  <br>
 到書本和詞語的  <br>
 迷霧沉沉。<br>
-……"
+"
 ---
+
+{{% columns %}}
 
 ## LA SOMBRA DE MI ALMA
 
@@ -53,7 +56,9 @@ desmoronada.
 ¡Ruiseñor mío! ¡Ruiseñor!  
 ¿Aún cantas?
 
----
+<--->
+
+
 ## 我靈魂的陰影
 
 ***1919年12月，馬德里  
@@ -94,5 +99,9 @@ desmoronada.
 
 夜鶯呵！我的夜鶯！  
 你可仍在啼鳴？
+
+{{% /columns %}}
+
+
 
 > 選自 [Libro de Poemas 詩篇](../../shelves/libro-de-poemas) 

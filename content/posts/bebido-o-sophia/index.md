@@ -1,6 +1,7 @@
 ---
-title: Bebido o Luar 啜飲月光
+title: Bebido o Luar  <br> 啜飲月光
 date: 2024-06-03
+cover: "cover.jpg"
 tags:
     - S. Andresen
     - 姚京明
@@ -10,7 +11,7 @@ Summary: "飲畢月光，我們神游遠方，  <br>
 心想生活就是擁抱  <br>
 松海的濤聲，山嵐的蔚藍，  <br>
 還有大海花園的碧濤。<br>
-……"
+"
 ---
 
 {{% columns %}}
@@ -37,7 +38,7 @@ Nunca os deuses capazes de os viver.
 
 ## 啜飲月光
 
-***姚京明　译***
+***姚京明　譯***
 
 飲畢月光，我們神游遠方，  
 心想生活就是擁抱  

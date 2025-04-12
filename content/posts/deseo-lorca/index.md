@@ -1,11 +1,15 @@
 ---
-title: DESEO 願望
+title: DESEO  <br> 願望
 date: 2024-05-13
 header_anchor: true
+cover: "cover.webp"
 tags:
     - lorca
 categories:
     - exercices de style
+Summary: "只要你熱烈的心，  <br>
+別的不需。<br>
+"
 ---
 
 {{% columns %}}

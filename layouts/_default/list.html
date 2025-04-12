@@ -1,1 +1,34 @@
-{{ define "dummy" }}{{ end }}
+{{ define "dummy" }}
+{{ range sort .Paginator.Pages }}
+<div class="post-container">
+  <div class="post-item-grid">
+
+    <article class="markdown book-post">
+      <h1>
+        <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+      </h1>
+      {{ partial "docs/post-meta" . }}
+      <div class="book-post-content">
+        {{- .Summary -}}
+      </div>
+      <p>……</p>
+      <span><a href="{{ .RelPermalink }}">閲讀 >>></a>
+      </span>
+    </article>
+
+    {{ with .Resources.GetMatch .Params.cover }}
+    <div class="post-thumb">
+      <img src="{{ .RelPermalink }}" alt="Cover image">
+    </div>
+    {{ end }}
+    
+  </div>
+</div>
+{{ end }}
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}
+
+{{ define "toc" }}
+{{ partial "docs/taxonomy" . }}
+{{ end }}

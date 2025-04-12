@@ -1,10 +1,10 @@
 // Used in layout
 $padding-1: 1px !default;
 $padding-4: 0.25rem !default;
-$padding-8: 0.5rem !default;
+$padding-8: 0.8rem !default;
 $padding-16: 1rem !default;
 
-$font-size-base: 16px !default;
+$font-size-base: 16.5px !default;
 $font-size-12: 0.9rem !default;
 $font-size-14: 0.95rem !default;
 $font-size-16: 1rem !default;
@@ -25,19 +25,21 @@ $hint-colors: (
   info: #6bf,
   warning: #fd6,
   danger: #f66,
-) !default;
+  ) !default;
 
 // Themes
 @mixin theme-light {
   --gray-100: #f8f9fa;
   --gray-200: #e9ecef;
-  --gray-500: #726252;  
+  --gray-500: #726252;
 
-  --color-link: #E85C0D;
-  --color-visited-link: #CD5C08;
+  --color-link: #005CAF;
+  --color-visited-link: #93269d;
 
-  --body-background: #fffefb;
+  --body-background: #FFFEFA;
   --body-font-color: #1b1f24;
+
+  --book-post-bgd: rgba(233, 237, 239, 0.372);
 
   --icon-filter: none;
 
@@ -51,15 +53,19 @@ $hint-colors: (
   --gray-200: #5c6165;
   --gray-500: #999d9f;
 
-  --color-link: #84b2ff;
-  --color-visited-link: #b88dff;
+  --color-link: #55bbeb;
+  --color-visited-link: #cba6f9;
 
-  --body-background: #343a40;
+  --body-background: #323c48;
   --body-font-color: #e9ecef;
 
-  --icon-filter: brightness(0) invert(1);
+  --book-post-bgd: #1C2938;
 
-  --hint-color-info: #6bf;
-  --hint-color-warning: #fd6;
-  --hint-color-danger: #f66;
+
+  --icon-filter: brightness(0) invert(1
+  );
+
+--hint-color-info: #6bf;
+--hint-color-warning: #fd6;
+--hint-color-danger: #f66;
 }

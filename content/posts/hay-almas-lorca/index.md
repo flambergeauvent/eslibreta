@@ -1,10 +1,16 @@
 ---
-title: HAY ALMAS QUE TIENEN… 有些靈魂具有……
+title: HAY ALMAS QUE TIENEN…  <br> 有些靈魂具有……
 date: 2024-05-13
+cover: "cover.jpg"
 tags:
     - lorca
 categories:
     - exercices de style
+Summary: "有些靈魂具有  <br>
+藍色的星芒，  <br>
+光陰葉隙間  <br>
+凋謝的清晨，  <br>
+"
 
 ---
 

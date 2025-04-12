@@ -179,7 +179,7 @@ body[dir="rtl"] .book-menu {
 .book-page {
   min-width: $body-min-width;
   flex-grow: 1;
-  padding: $padding-16;
+  padding: $padding-16 * 1.2;
 }
 
 .book-post {
@@ -198,6 +198,14 @@ body[dir="rtl"] .book-menu {
   .book-post-content {
     margin-top: $padding-16;
     margin-bottom: $padding-16;
+
+    .footnotes {
+      margin-top: $padding-16 * 3;
+
+      p {
+        margin: $padding-4 0;
+      }
+    }
   }
 }
 

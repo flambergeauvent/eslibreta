@@ -1,14 +1,31 @@
 {{ define "main" }}
 <article class="markdown book-post">
+  {{ with .Resources.GetMatch .Params.cover }}
+  <div class="page-cover">
+    <img src="{{ .RelPermalink }}" alt="Cover image">
+  </div>
+  {{ end }}
   <h1>
-    {{ partial "docs/title.html" . }}
+    <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
   </h1>
   {{ partial "docs/post-meta" . }}
   <div class="book-post-content">
     {{- .Content -}}
   </div>
 </article>
+
+<nav class="post-navigation">
+  {{ with .PrevInSection }}
+  <a class="prev-post" href="{{ .RelPermalink }}">← {{ .Title | safeHTML }}</a>
+  {{ end }}
+  {{ with .NextInSection }}
+  <a class="next-post" href="{{ .RelPermalink }}">{{ .Title | safeHTML }} →</a>
+  {{ end }}
+</nav>
+
 {{ end }}
+
+
 
 {{ define "toc" }}
 {{ partial "docs/toc" . }}

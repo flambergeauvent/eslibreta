@@ -1,11 +1,17 @@
 ---
-title: CANCIÓN MENOR 短歌
+title: CANCIÓN MENOR  <br> 短歌
 date: 2022-08-02
+cover: "cover.jpg"
 header_anchor: true
 tags:
     - lorca
 categories:
     - exercices de style
+Summary: "有露水如珠  <br>
+落在夜鶯的翅翼，  <br>
+珠子明亮自月光  <br>
+凝結出於幻想。<br>
+"
 ---
 
 {{% columns %}}

@@ -1,7 +1,8 @@
 ---
-title: CANCIÓN PRIMAVERAL 春歌
+title: CANCIÓN PRIMAVERAL <br> 春歌
 date: 2024-08-03
 header_anchor: true
+cover: "cover.jpg"
 tags:
     - lorca
 categories:
@@ -10,6 +11,7 @@ Summary: "孩子們多麼歡快 <br>
 走出了學校，  <br>
 給溫暖的四月空氣  <br>
 獻唱溫柔的歌謠。<br> "
+
 ---
 
 {{% columns %}}

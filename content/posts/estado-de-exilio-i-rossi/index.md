@@ -1,7 +1,8 @@
 ---
-title: ESTADO DE EXILIO 《流亡狀態》選譯十首
+title: ESTADO DE EXILIO  <br> 《流亡狀態》選譯十首
 date: 2024-06-24
 header_anchor: true
+cover: "cover.jpg"
 tags:
     - rossi
 categories:

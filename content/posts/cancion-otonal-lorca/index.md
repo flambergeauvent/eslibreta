@@ -1,7 +1,8 @@
 ---
-title: CANCIÓN OTOÑAL 秋歌
+title: CANCIÓN OTOÑAL <br>  秋歌
 date: 2024-06-03
 header_anchor: true
+cover: "cover.jpg"
 tags:
     - lorca
 categories:
@@ -10,7 +11,7 @@ Summary: "今天我感到心中 <br>
 仿佛有星辰的震顫，  <br>
 但我已迷失路途  <br>
 在這心靈的霧靄。<br>
-…… "
+"
 ---
 
 {{% columns %}}

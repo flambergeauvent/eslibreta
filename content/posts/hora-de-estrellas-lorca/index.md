@@ -1,12 +1,20 @@
 ---
-title: HORA DE ESTRELLAS 星時辰
+title: HORA DE ESTRELLAS  <br> 星時辰
 date: 2024-05-13
+cover: "cover.jpg"
 header_anchor: true
 tags:
     - lorca
 categories:
     - exercices de style
+Summary: "夜晚的寂靜渾圓  <br>
+散落在浩茫的  <br>
+譜之五線。<br>
+"
+
 ---
+
+{{% columns %}}
 
 ## HORA DE ESTRELLAS
 
@@ -34,7 +42,8 @@ duermen en mi recinto.
 Hay una juventud de brisas locas  
 sobre el río.
 
----
+<--->
+
 ## 星時辰
 
 ***1920   
@@ -61,6 +70,6 @@ sobre el río.
 正有狂飆的勁風  
 乍起河面。
 
-
+{{% /columns %}}
 
 >選自 [Libro de Poemas 詩篇](../../shelves/libro-de-poemas) 

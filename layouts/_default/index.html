@@ -1,4 +1,13 @@
 {{ define "main" }}
+
+<div class="markdown">
+  {{ .Content }}
+</div>
+
+<hr>
+<h1>近期更新</h1>
+
+
 {{ range sort .Paginator.Pages }}
 <div class="post-container">
   <div class="post-item-grid">

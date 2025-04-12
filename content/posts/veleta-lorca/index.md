@@ -1,11 +1,21 @@
 ---
-title: VELETA 風向標
+title: VELETA  <br> 風向標
 date: 2023-02-14
 header_anchor: true
-    - lorca
+cover: "cover.jpg"
 categories:
     - exercices de style
+tags:
+    - lorca
+Summary: "南部的風，  <br>
+黝黑、熾熱，  <br>
+橙花的香氣  <br>
+浸染了你，  <br>
+你掠過我的身體  <br>
+"
 ---
+
+{{% columns %}}
 
 ## VELETA
 
@@ -78,7 +88,8 @@ Sin ningún viento,
 gira, corazón;  
 gira, corazón.  
 
----
+<--->
+
 
 ## 風向標
 
@@ -151,7 +162,7 @@ gira, corazón.
 轉呀，我的心  
 快轉動。  
 
-
+{{% /columns %}}
 
 >選自 [Libro de Poemas 詩篇](../../shelves/libro-de-poemas) 
 

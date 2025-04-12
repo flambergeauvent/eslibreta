@@ -1,0 +1,44 @@
+<!-- <button id="theme-toggle" aria-label="Toggle dark mode" style="margin: 1rem;">
+  🌓
+</button>
+
+<script>
+  const toggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+
+  // Initialize from localStorage
+  const stored = localStorage.getItem('theme');
+
+  if (stored === 'dark') {
+    root.classList.add('dark');
+    root.setAttribute('data-theme', 'dark');
+  } else if (stored === 'light') {
+    root.classList.add('light');
+    root.setAttribute('data-theme', 'light');
+  }
+
+  if (stored === 'dark') {
+    root.classList.remove('light');
+    root.classList.add('dark');
+  } else if (stored === 'light') {
+    root.classList.remove('dark');
+    root.classList.add('light');
+  }
+
+  // Toggle on click
+  toggle.addEventListener('click', () => {
+    const isDark = root.classList.contains('dark');
+    if (isDark) {
+      root.classList.remove('dark');
+      root.classList.add('light');
+      root.setAttribute('data-theme', 'light');
+      localStorage.setItem('theme', 'light');
+    } else {
+      root.classList.remove('light');
+      root.classList.add('dark');
+      root.setAttribute('data-theme', 'dark');
+      localStorage.setItem('theme', 'dark');
+    }
+  });
+
+</script> -->
