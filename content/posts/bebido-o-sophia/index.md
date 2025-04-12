@@ -2,6 +2,7 @@
 title: Bebido o Luar  <br> 啜飲月光
 date: 2024-06-03
 cover: "cover.jpg"
+cover_position: "10%"
 tags:
     - S. Andresen
     - 姚京明
@@ -56,3 +57,5 @@ Nunca os deuses capazes de os viver.
 那麽上帝也不是它們的主人。
 
 {{% /columns %}}
+
+> Hasui: Spring Night at Inokashira Park

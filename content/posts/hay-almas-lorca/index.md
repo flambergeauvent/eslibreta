@@ -2,6 +2,7 @@
 title: HAY ALMAS QUE TIENEN…  <br> 有些靈魂具有……
 date: 2024-05-13
 cover: "cover.jpg"
+cover_position: "top center"
 tags:
     - lorca
 categories:

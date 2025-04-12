@@ -1,7 +1,8 @@
 ---
-title: HORA DE ESTRELLAS  <br> 星時辰
+title: HORAS DE ESTRELLAS  <br> 星時辰
 date: 2024-05-13
-cover: "cover.jpg"
+cover: "cover.webp"
+cover_position: ""
 header_anchor: true
 tags:
     - lorca
@@ -16,7 +17,7 @@ Summary: "夜晚的寂靜渾圓  <br>
 
 {{% columns %}}
 
-## HORA DE ESTRELLAS
+## HORAS DE ESTRELLAS
 
 ***1920  
 Federico García Lorca***

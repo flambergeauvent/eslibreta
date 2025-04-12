@@ -1,5 +1,5 @@
 {{ define "dummy" }}
-{{ range sort .Paginator.Pages }}
+{{ range first 10 (sort .Paginator.Pages) }}
 <div class="post-container">
   <div class="post-item-grid">
 

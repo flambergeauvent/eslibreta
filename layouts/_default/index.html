@@ -8,7 +8,7 @@
 <h1>近期更新</h1>
 
 
-{{ range sort .Paginator.Pages }}
+{{ range first 10 (sort .Site.RegularPages "Date" "desc") }}
 <div class="post-container">
   <div class="post-item-grid">
 
@@ -27,7 +27,8 @@
 
     {{ with .Resources.GetMatch .Params.cover }}
     <div class="post-thumb">
-      <img src="{{ .RelPermalink }}" alt="Cover image">
+      <img src="{{ .RelPermalink }}" 
+      alt="Cover image">
     </div>
     {{ end }}
     
@@ -35,7 +36,6 @@
 </div>
 {{ end }}
 
-{{ template "_internal/pagination.html" . }}
 {{ end }}
 
 {{ define "toc" }}

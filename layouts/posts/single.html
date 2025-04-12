@@ -2,7 +2,10 @@
 <article class="markdown book-post">
   {{ with .Resources.GetMatch .Params.cover }}
   <div class="page-cover">
-    <img src="{{ .RelPermalink }}" alt="Cover image">
+    <img 
+    src="{{ .RelPermalink }}" 
+    style="object-position: {{ $.Params.cover_position | default "center center" }};"
+    alt="Cover image">
   </div>
   {{ end }}
   <h1>
