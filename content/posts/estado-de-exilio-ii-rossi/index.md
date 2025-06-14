@@ -1,9 +1,9 @@
 ---
-title: ESTADO DE EXILIO  <br> 《流亡狀態》一 至 十
-date: 2024-06-24
+title: ESTADO DE EXILIO  <br> 《流亡狀態》十一 至 二十
+date: 2025-04-18
 header_anchor: true
 cover: "cover.jpg"
-cover_position: "top center"
+cover_position: "center center"
 tags:
     - rossi
 categories:
@@ -12,62 +12,82 @@ summary: "從囯到邦  <br>
 流亡  <br>
 是一條目盲的  <br>
 川流。"
+draft: true
 ---
 
 ***Cristina Peri Rossi  
 克里斯蒂娜·佩里·羅西***
 
 {{% columns %}}
-## I
 
-Tengo un dolor aquí,  
-&nbsp;&nbsp;&nbsp;&nbsp;del lado de la patria.
+## XI
 
+Una casa    
+un cuadro   
+una silla   
+una lámpara     
+un ligustro     
+el sonido del mar    
+perdidos,
+
+pesan tanto como la ausencia de mamá.
 <--->
 
-## 一
-我這裏疼，  
-&nbsp;&nbsp;&nbsp;&nbsp;就在祖國的這一邊。
+## 十一
+
+一棟房子    
+一幅畫  
+一把椅子    
+一盞燈      
+一棵女貞樹  
+海的聲音    
+全都遺失了，  
+
+它們和媽媽的缺席一樣沉。
+
+
+
 {{% /columns %}}
 
 
 ---
 {{% columns %}}
 
-## II
+## XII
 
-Soñé que me iba lejos de aquí  
-el mar estaba picado  
-olas negras y blancas  
-un lobo muerto en la playa  
-un madero navegando  
-luces rojas en altamar
-
-¿Existió alguna vez una ciudad llamada Montevideo?
+A tantos quilómetros de distancia   
+nadie puede permanecer fiel.    
+Ni el árbol que plantamos   
+ni el libro abandonado,     
+ni el perro,    
+que vive en otra casa.  
 
 <--->
 
-## 二
+## 十二
 
-我夢見我遠遠離開這裏  
-大海波濤洶湧  
-駭浪黑白間雜  
-一隻死狼臥在沙灘  
-一段木板正漂浮  
-遠海閃著紅光
-
-曾幾何時有城市喚作蒙特維多？
+相隔那麽多公里的距離    
+沒有人能夠保有忠誠。    
+那棵我們種下的樹不能    
+被留下的書不能，    
+那條狗不能——    
+他如今住在別的家裏。    
 
 {{% /columns %}}
 
 ---
 {{% columns %}}
 
-## CARTA DE MAMÁ
+## ESTADO DE EXILIO
 
-Carta de mamá:  
-«Y si todos se van, hija mía,  
-¿qué vamos a hacer los que nos quedamos?»
+muy pronto tan lejos bastante mal   
+ <span class="tab"> siempre
+dificultad palabras furiosa largo       
+extraño extranjero qué más el árbol     
+sólo miro diferente 
+
+todo    
+&nbsp;&nbsp;&nbsp;&nbsp;fuera más humano
 
 <--->
 
@@ -89,7 +109,7 @@ Soñé que me llevaban de aquí
 
 <--->
 
-## 四
+## 其四
 我夢見他們帶我離開這裏  
 &nbsp;&nbsp;&nbsp;&nbsp;到一個甚至更糟的地方。
 
@@ -126,7 +146,7 @@ a cualquier otro lado.
 
 <--->
 
-## 六
+## 其六
 
 我夢見歸來  
 但一到那裏  
@@ -150,7 +170,7 @@ tránsito
 
 <--->
 
-## 七
+## 其七
 
 有一回我們學會&nbsp;&nbsp;&nbsp;&nbsp;像鳥  
 飛行  
@@ -177,7 +197,7 @@ se perdió en el vuelo.
 <--->
 
 
-## 八
+## 其八
 
 我們作爲旅人  
 地理感實在荒謬  
@@ -209,7 +229,7 @@ mucho tiempo.
 
 <--->
 
-## 九
+## 其九
 
 從囯到邦  
 流亡  
@@ -242,7 +262,7 @@ triste
 
 <--->
 
-## 十
+## 其十
 
 毋庸置疑地  
 疲累  
